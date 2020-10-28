@@ -1,0 +1,7 @@
+{
+    "name": "BombPatrol",
+    "tag": "TVO",
+    "pilot": "Thiago Vieira de Oliveira",
+    "mainFile": "./src/BombPatrol.java",
+    "supportFiles": ["./src/BombPatrol.class"]
+}
